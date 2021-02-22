@@ -5,3 +5,4 @@ Index
 3. Escape sequences 
 4. '#define' and 'const'
 5. Signed and Unsigned integers
+6. Storage Classes
