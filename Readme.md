@@ -6,4 +6,3 @@ Index
 4. '#define' and 'const'
 5. Signed and Unsigned integers
 6. Storage Classes
-7. Operators
