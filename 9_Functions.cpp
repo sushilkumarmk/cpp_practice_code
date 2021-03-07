@@ -41,3 +41,13 @@ int function_arg_pass_by_pointer(int *a, int *b)
     cout<<"Values of a and b by using function call as value:"<<*a<<"\t"<<*b<<endl;
     return 0;
 }
+
+int function_arg_pass_by_reference(int &a, int &b)
+{
+    int temp;
+    temp = a;
+    a = b;
+    b = temp;
+    cout<<"Values of a and b by using function call as value:"<<a<<"\t"<<b<<endl;
+    return 0;
+}
