@@ -8,3 +8,4 @@ Index
 6. Storage Classes
 7. Operators 
 8. Looping
+9. Functions
