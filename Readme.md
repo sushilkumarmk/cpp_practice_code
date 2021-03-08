@@ -9,3 +9,4 @@ Index
 7. Operators 
 8. Looping
 9. Functions
+10. Math Functions
